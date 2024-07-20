@@ -1,6 +1,6 @@
 - 👋 Hi, I’m satyamThakur
 - 👀 I’m interested in java programming
-- 🌱 I’m currently learning java programming
+- 🌱 I’m currently learning java&DSA
 - 📫 How to reach me https://www.linkedin.com/in/satyam-kumar-164931277/
 
 
